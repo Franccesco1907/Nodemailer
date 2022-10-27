@@ -1,6 +1,6 @@
 # SendGrid
 Send emails from Nodejs with SendGrid.
-A example of how attach a pdf file.
+Furthermore, there are an example of how attach a pdf file.
 
 ## Config a .env file
 
